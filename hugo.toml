@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://quantike.github.io/thoughts/'
 languageCode = 'en-us'
 title = "Ike's Thought Process"
 theme = 'archie'
@@ -31,12 +31,12 @@ url = "https://x.com/ieszczyk"
 # Main menu Items
 [[menu.main]]
 name = "Home"
-url = "/thoughts"
+url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/posts"
+name = "Thoughts"
+url = "/thoughts"
 weight = 2
 
 [[menu.main]]
