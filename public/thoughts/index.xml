@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Ike&#39;s Thought Process</title>
+    <link>http://localhost:61576/thoughts/</link>
+    <description>Recent content in Thoughts on Ike&#39;s Thought Process</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:61576/thoughts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
