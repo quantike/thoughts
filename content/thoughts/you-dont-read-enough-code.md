@@ -1,6 +1,6 @@
 +++
 date = '2025-01-23T08:55:33-06:00'
-draft = true
+draft = false
 title = 'You Dont Read Enough Code'
 description = 'One path to being a better software engineer'
 tldr = 'Read all the code that you can, using well-known libraries and applications as examples for your own work. Nothing is new, use this to your advantage.'
