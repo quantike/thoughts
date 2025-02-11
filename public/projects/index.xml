@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ike&#39;s Thought Process</title>
-    <link>http://localhost:61576/projects/</link>
+    <link>http://localhost:61677/projects/</link>
     <description>Recent content in Projects on Ike&#39;s Thought Process</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Feb 2025 12:08:30 -0600</lastBuildDate>
-    <atom:link href="http://localhost:61576/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61677/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming Soon</title>
-      <link>http://localhost:61576/projects/coming-soon/</link>
+      <link>http://localhost:61677/projects/coming-soon/</link>
       <pubDate>Tue, 11 Feb 2025 12:08:30 -0600</pubDate>
-      <guid>http://localhost:61576/projects/coming-soon/</guid>
+      <guid>http://localhost:61677/projects/coming-soon/</guid>
       <description></description>
     </item>
   </channel>

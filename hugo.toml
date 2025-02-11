@@ -31,12 +31,12 @@ url = "https://x.com/ieszczyk"
 # Main menu Items
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "/thoughts"
 weight = 1
 
 [[menu.main]]
-name = "Thoughts"
-url = "/thoughts"
+name = "Posts"
+url = "/posts"
 weight = 2
 
 [[menu.main]]
