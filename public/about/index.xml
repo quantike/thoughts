@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Ike&#39;s Thought Process</title>
-    <link>http://localhost:62076/thoughts/about/</link>
+    <link>http://localhost:64533/about/</link>
     <description>Recent content in Abouts on Ike&#39;s Thought Process</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62076/thoughts/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64533/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:62076/thoughts/about/about/</link>
+      <link>http://localhost:64533/about/about/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62076/thoughts/about/about/</guid>
+      <guid>http://localhost:64533/about/about/</guid>
       <description>&lt;p&gt;Howdy, I&amp;rsquo;m Ike.&lt;/p&gt;&#xA;&lt;p&gt;Some things about me:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I love to solve challenging problems from first principles.&lt;/li&gt;&#xA;&lt;li&gt;I am fascinated by programming topics like databases, distributed systems, and machine learning.&lt;/li&gt;&#xA;&lt;li&gt;I enjoy using vim and ricing my terminal (see my &lt;a href=&#34;https://github.com/quantike/dotfiles&#34;&gt;dotfiles&lt;/a&gt;).&lt;/li&gt;&#xA;&lt;li&gt;My background is in physics, nuclear engineering, and high-performance computing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;$$\dfrac{dN(t)}{dt} = -\lambda N(t)$$&lt;/p&gt;</description>
     </item>
   </channel>

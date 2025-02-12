@@ -1,4 +1,4 @@
-baseURL = 'https://quantike.github.io/thoughts/'
+baseURL = 'https://quantike.xyz'
 languageCode = 'en-us'
 title = "Ike's Thought Process"
 theme = 'archie'
