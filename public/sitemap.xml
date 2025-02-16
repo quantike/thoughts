@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64533/projects/coming-soon/</loc>
+    <loc>http://localhost:1313/projects/coming-soon/</loc>
     <lastmod>2025-02-11T12:08:30-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-11T12:08:30-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-02-11T12:08:30-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/tags/philosophy/</loc>
+    <loc>http://localhost:1313/tags/opinions/</loc>
     <lastmod>2025-01-23T08:55:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-23T08:55:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/thoughts/</loc>
+    <loc>http://localhost:1313/thoughts/</loc>
     <lastmod>2025-01-23T08:55:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/thoughts/you-dont-read-enough-code/</loc>
+    <loc>http://localhost:1313/thoughts/you-dont-read-enough-code/</loc>
     <lastmod>2025-01-23T08:55:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64533/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

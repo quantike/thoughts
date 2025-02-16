@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philosophy on Ike&#39;s Thought Process</title>
-    <link>http://localhost:1313/tags/philosophy/</link>
-    <description>Recent content in Philosophy on Ike&#39;s Thought Process</description>
+    <title>Opinions on Ike&#39;s Thought Process</title>
+    <link>http://localhost:1313/tags/opinions/</link>
+    <description>Recent content in Opinions on Ike&#39;s Thought Process</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jan 2025 08:55:33 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opinions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>You Dont Read Enough Code</title>
       <link>http://localhost:1313/thoughts/you-dont-read-enough-code/</link>

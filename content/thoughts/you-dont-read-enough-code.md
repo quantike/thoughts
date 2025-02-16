@@ -4,7 +4,7 @@ draft = false
 title = 'You Dont Read Enough Code'
 description = 'One path to being a better software engineer'
 tldr = 'Read all the code that you can, using well-known libraries and applications as examples for your own work. Nothing is new, use this to your advantage.'
-tags = ['philosophy']
+tags = ['opinions']
 +++
 You probably don't read enough code. I know I don't.
 
