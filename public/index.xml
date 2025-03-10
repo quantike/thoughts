@@ -6,8 +6,15 @@
     <description>Recent content on Ike&#39;s Thought Process</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2025 12:08:30 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 01:36:47 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On upgrading to Zig 0.14.0, language servers, and unstable software</title>
+      <link>http://localhost:1313/thoughts/upgrading-zig/</link>
+      <pubDate>Mon, 10 Mar 2025 01:36:47 -0500</pubDate>
+      <guid>http://localhost:1313/thoughts/upgrading-zig/</guid>
+      <description>&lt;p&gt;With the release of a &lt;a href=&#34;https://ziglang.org/download/0.14.0/release-notes.html&#34;&gt;new version of Zig&lt;/a&gt;, I was interested to try some of the new features. As a MacOS user for my primary development (sorry Linux folks), this meant the usual steps.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew upgrade zig&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew upgrade zls&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Little did I know this would result in an 18h crash course in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zig tarball naming conventions&lt;/li&gt;&#xA;&lt;li&gt;Language server registries&lt;/li&gt;&#xA;&lt;li&gt;Unstable software&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Plus, a tidbit at the end about how to make this process easier.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Coming Soon</title>
       <link>http://localhost:1313/projects/coming-soon/</link>

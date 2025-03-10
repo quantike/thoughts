@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thoughts on Ike&#39;s Thought Process</title>
-    <link>http://localhost:1313/thoughts/</link>
-    <description>Recent content in Thoughts on Ike&#39;s Thought Process</description>
+    <title>Zig on Ike&#39;s Thought Process</title>
+    <link>http://localhost:1313/tags/zig/</link>
+    <description>Recent content in Zig on Ike&#39;s Thought Process</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Mar 2025 01:36:47 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/zig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On upgrading to Zig 0.14.0, language servers, and unstable software</title>
       <link>http://localhost:1313/thoughts/upgrading-zig/</link>
       <pubDate>Mon, 10 Mar 2025 01:36:47 -0500</pubDate>
       <guid>http://localhost:1313/thoughts/upgrading-zig/</guid>
       <description>&lt;p&gt;With the release of a &lt;a href=&#34;https://ziglang.org/download/0.14.0/release-notes.html&#34;&gt;new version of Zig&lt;/a&gt;, I was interested to try some of the new features. As a MacOS user for my primary development (sorry Linux folks), this meant the usual steps.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew upgrade zig&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;brew upgrade zls&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Little did I know this would result in an 18h crash course in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zig tarball naming conventions&lt;/li&gt;&#xA;&lt;li&gt;Language server registries&lt;/li&gt;&#xA;&lt;li&gt;Unstable software&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Plus, a tidbit at the end about how to make this process easier.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>You Dont Read Enough Code</title>
-      <link>http://localhost:1313/thoughts/you-dont-read-enough-code/</link>
-      <pubDate>Thu, 23 Jan 2025 08:55:33 -0600</pubDate>
-      <guid>http://localhost:1313/thoughts/you-dont-read-enough-code/</guid>
-      <description>&lt;p&gt;You probably don&amp;rsquo;t read enough code. I know I don&amp;rsquo;t.&lt;/p&gt;&#xA;&lt;p&gt;Almost everything we do in software is not new. The sum product of the business might be new to the market, but it’s powered by databases and HTTP just like every other start up. This is to your advantage.&lt;/p&gt;&#xA;&lt;p&gt;Almost everything has been done before. Your job is to read it, understand it, and iterate on it. &lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This post is inspired by the xweet from &lt;a href=&#34;https://x.com/kuberdenis&#34;&gt;@kuberdenis&lt;/a&gt; titled &amp;ldquo;You are not a software engineer.&amp;rdquo;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; This post serves as one way to overcome the challenge he describes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
