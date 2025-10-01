@@ -1,0 +1,5 @@
+[[collection]]
+type = "card"
+title = "Ghostty"
+link = "https://ghostty.org/"
+content = "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. It's the first app that opens on my Mac every day contributing to 80% of my screen time."
