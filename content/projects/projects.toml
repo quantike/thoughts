@@ -1,0 +1,13 @@
+[[collection]]
+type = "card"
+title = "Pydiction"
+link = "https://github.com/quantike/pydiction"
+content = "Pydiction is a prediction market trading framework that streams high-frequency data (orderbook updates, ticks, and trades) to an in-memory ring buffer with object storage write-behind."
+tags = ["python", "trading", "data"]
+
+[[collection]]
+type = "card"
+title = "Gulog"
+link = "https://github.com/quantike/gulog"
+content = "This project demonstrates the implementation of a Write-Ahead Log (WAL) using MinIO as the backend for storing log records. The WAL is implemented with Rust, showcasing how to write, read, and validate records stored in MinIO. Each record is uniquely identified using a ULID and includes data integrity validation with a SHA-256 checksum."
+tags = ["rust", "object storage", "databases"]
