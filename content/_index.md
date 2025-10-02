@@ -25,4 +25,4 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Howdy, I'm @quantike. I build and scale machine-learning and data systems.
+Howdy, I'm @quantike. I build and scale machine-learning systems.

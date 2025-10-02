@@ -69,9 +69,3 @@ type = "card_simple"
 title = "tree"
 link = "https://peteretelej.github.io/tree/"
 content = "tree is an open-source tree command-line application that recursively displays the directory structure of a given path in a tree-like format, inspired by the Unix tree command."
-
-[[collection]]
-type = "card_simple"
-title = "tree"
-link = "https://peteretelej.github.io/tree/"
-content = "tree is an open-source tree command-line application that recursively displays the directory structure of a given path in a tree-like format, inspired by the Unix tree command."
