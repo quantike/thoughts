@@ -14,7 +14,7 @@ bio = "Thoughts on systems and software"
 # avatar = "../static/img/Crying-Cat.jpg"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/quantike" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
+    { name = "Twitter", icon = "twitter", url = "https://x.com/ieszczyk" },
     { name = "Email", icon = "email", url = "mailto:howdy@quantike.xyz" },
 ]
 
