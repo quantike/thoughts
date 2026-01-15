@@ -1,4 +1,6 @@
 +++
+title = "Stack"
+description = "Developer tools and tech stack including Neovim, terminal setup, CLI tools, and AI coding assistants used for daily software development."
 template = "prose.html"
 
 [extra]

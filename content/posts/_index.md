@@ -1,6 +1,6 @@
 +++
-title = ""
-description = "My blog site."
+title = "Posts"
+description = "Technical writing on systems programming, machine learning infrastructure, databases, distributed systems, and software engineering experiences."
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"

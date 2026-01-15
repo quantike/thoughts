@@ -11,3 +11,10 @@ title = "Gulog"
 link = "https://github.com/quantike/gulog"
 content = "This project demonstrates the implementation of a Write-Ahead Log (WAL) using MinIO as the backend for storing log records. The WAL is implemented with Rust, showcasing how to write, read, and validate records stored in MinIO. Each record is uniquely identified using a ULID and includes data integrity validation with a SHA-256 checksum."
 tags = ["rust", "object storage", "databases"]
+
+# [[collection]]
+# type = "card"
+# title = "Example Project"
+# link = "https://example.com"
+# content = "Example project description goes here."
+# tags = ["example", "draft"]

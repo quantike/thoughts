@@ -1,0 +1,23 @@
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="{% if page %}article{% else %}website{% endif %}" />
+{% if current_url %}<meta property="og:url" content="{{ current_url | safe }}" />{% endif %}
+<meta property="og:title" content="{% if page %}{{ page.title }} | {% elif section %}{{ section.title }} | {% endif %}{{ config.title }}" />
+<meta property="og:description" content="{% if page and page.description %}{{ page.description }}{% elif section and section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}" />
+<meta property="og:site_name" content="{{ config.title }}" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ieszczyk" />
+<meta name="twitter:creator" content="@ieszczyk" />
+<meta name="twitter:title" content="{% if page %}{{ page.title }} | {% elif section %}{{ section.title }} | {% endif %}{{ config.title }}" />
+<meta name="twitter:description" content="{% if page and page.description %}{{ page.description }}{% elif section and section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}" />
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="{% if page and page.description %}{{ page.description }}{% elif section and section.description %}{{ section.description }}{% else %}{{ config.description }}{% endif %}" />
+<meta name="author" content="Ike (@quantike)" />
+{% if current_url %}<link rel="canonical" href="{{ current_url | safe }}" />{% endif %}
+
+<!-- RSS Feed -->
+{% if config.generate_feeds %}
+<link rel="alternate" type="application/atom+xml" title="{{ config.title }}" href="{{ get_url(path='atom.xml', trailing_slash=false) }}" />
+{% endif %}

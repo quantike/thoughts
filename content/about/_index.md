@@ -1,6 +1,6 @@
 +++
 title = "About me"
-description = "About page of ..."
+description = "ML engineer working on scaling machine learning systems, deepfake detection, and real-time inference. Background in physics, nuclear engineering, and distributed systems."
 template = "prose.html"
 insert_anchor_links = "none"
 
@@ -16,7 +16,7 @@ comment = false
 reaction = false
 +++
 
-Howdy, I'm Ike. I am a machine learning engineer working at [GetReal Security](https://www.getrealsecurity.com/) where I spend a lot of time talking about and working on the machine learning lifecycle. I joined GetReal to focus on scaling ML serving for our live-meeting product [GetReal Protect](https://www.getrealsecurity.com/platform#protect), which mitigates real-time deepfake threats across all major video conferencing platforms. I get to work with my favorite languages, Python and Rust, and spend time scaling my favorite database, Postgres.
+Howdy, I'm Ike. I am a machine learning engineer working at [GetReal Security](https://www.getrealsecurity.com/) where I spend a lot of time talking about and working on the machine learning lifecycle. I joined GetReal to focus on scaling data and machine-learning systems at [GetReal Protect](https://www.getrealsecurity.com/platform#protect), which mitigates real-time deepfake threats across all major video conferencing platforms.
 
 Previously, I spent time consulting for an AI startup, operating as their founding engineer, where I got to work on hosting and scaling LLM inference in on-prem and air-gapped environments.
 

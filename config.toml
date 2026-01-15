@@ -7,15 +7,15 @@ default_language = "en"
 theme = "serene"
 output_dir = "public"
 minify_html = false # Keep this false, as it may cause issues with some styles
-generate_feeds = false # Whether to generate a feed file in root, read docs for more info about rss feed
-# feed_filenames = ["feed.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
+generate_feeds = true # Whether to generate a feed file in root, read docs for more info about rss feed
+feed_filenames = ["atom.xml"] # "feed.xml" | "atom.xml" | "rss.xml", read docs for more info
 taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -24,8 +24,8 @@ highlight_code = true
 highlight_theme = "css"
 extra_syntaxes_and_themes = ["themes/serene/highlight_themes"]
 highlight_themes_css = [
-  { theme = "serene-light", filename = "hl-light.css" },
-  { theme = "serene-dark", filename = "hl-dark.css" },
+  { theme = "gruvbox-light", filename = "hl-light.css" },
+  { theme = "gruvbox-dark", filename = "hl-dark.css" },
 ]
 render_emoji = false
 external_links_target_blank = false
@@ -42,8 +42,10 @@ anchors = "on"
 # Put all your custom variables here
 sections = [
     { name = "posts", path = "/posts", is_external = false },
+    { name = "tidbits", path = "/tidbits", is_external = false },
     { name = "projects", path = "/projects", is_external = false},
     { name = "stack", path = "/stack", is_external = false },
+    { name = "now", path = "/now", is_external = false },
     { name = "about", path = "/about", is_external = false },
     # { name = "tags", path = "/tags", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },

@@ -1,5 +1,6 @@
 +++
 title = 'On upgrading to Zig 0.14.0, language servers, and unstable software'
+description = 'A deep dive into upgrading Zig to 0.14.0, debugging LSP issues with Mason and zls, understanding tarball naming conventions, and lessons about working with unstable software.'
 subtitle = 'Zig on roadbumps'
 # taxonomies = ["zig", "experiences"]
 date = '2025-03-10T01:36:47-05:00'

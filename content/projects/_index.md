@@ -1,4 +1,6 @@
 +++
+title = "Projects"
+description = "Open source projects and experiments in Python, Rust, trading systems, databases, and distributed systems."
 template = "prose.html"
 
 [extra]
