@@ -1,0 +1,78 @@
+# Zola build output
+public/
+
+# Generated syntax highlighting CSS (regenerated on each build)
+giallo-light.css
+giallo-dark.css
+
+# Old syntax highlighting (if any remain)
+hl-light.css
+hl-dark.css
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Node modules (if you ever add JS tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python (if you ever add Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Rust (if you ever add Rust tools)
+target/
+Cargo.lock
+
+# Backup files
+*.bak
+*.backup
+*.tmp
