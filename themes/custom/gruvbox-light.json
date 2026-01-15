@@ -1,0 +1,195 @@
+{
+  "name": "Gruvbox Light",
+  "type": "light",
+  "colors": {
+    "editor.background": "#fbf1c7",
+    "editor.foreground": "#3c3836",
+    "editorLineNumber.foreground": "#928374",
+    "editorCursor.foreground": "#3c3836",
+    "editor.selectionBackground": "#d5c4a1",
+    "editor.lineHighlightBackground": "#f2e5bc"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#928374",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["string", "string.quoted"],
+      "settings": {
+        "foreground": "#98971a"
+      }
+    },
+    {
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#b16286"
+      }
+    },
+    {
+      "scope": ["constant.language", "constant.character", "constant.other"],
+      "settings": {
+        "foreground": "#b16286"
+      }
+    },
+    {
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#458588"
+      }
+    },
+    {
+      "scope": ["keyword", "keyword.control", "keyword.operator.new"],
+      "settings": {
+        "foreground": "#cc241d",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["storage", "storage.type"],
+      "settings": {
+        "foreground": "#cc241d"
+      }
+    },
+    {
+      "scope": ["storage.type"],
+      "settings": {
+        "foreground": "#d65d0e",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["entity.name.class", "entity.name.type"],
+      "settings": {
+        "foreground": "#d79921",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["entity.other.inherited-class"],
+      "settings": {
+        "foreground": "#d79921",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function"],
+      "settings": {
+        "foreground": "#d79921"
+      }
+    },
+    {
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#458588",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#689d6a",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#d79921"
+      }
+    },
+    {
+      "scope": ["support.function"],
+      "settings": {
+        "foreground": "#689d6a"
+      }
+    },
+    {
+      "scope": ["support.constant"],
+      "settings": {
+        "foreground": "#b16286"
+      }
+    },
+    {
+      "scope": ["support.type", "support.class"],
+      "settings": {
+        "foreground": "#d79921"
+      }
+    },
+    {
+      "scope": ["support.other.variable"],
+      "settings": {
+        "foreground": "#458588"
+      }
+    },
+    {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#fbf1c7",
+        "background": "#cc241d"
+      }
+    },
+    {
+      "scope": ["invalid.deprecated"],
+      "settings": {
+        "foreground": "#fbf1c7",
+        "background": "#b16286"
+      }
+    },
+    {
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#d65d0e"
+      }
+    },
+    {
+      "scope": ["punctuation"],
+      "settings": {
+        "foreground": "#7c6f64"
+      }
+    },
+    {
+      "scope": ["markup.heading"],
+      "settings": {
+        "foreground": "#d79921",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.bold"],
+      "settings": {
+        "foreground": "#3c3836",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["markup.italic"],
+      "settings": {
+        "foreground": "#3c3836",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["markup.underline.link"],
+      "settings": {
+        "foreground": "#458588"
+      }
+    },
+    {
+      "scope": ["markup.raw", "markup.inline.raw"],
+      "settings": {
+        "foreground": "#689d6a"
+      }
+    },
+    {
+      "scope": ["markup.quote"],
+      "settings": {
+        "foreground": "#928374",
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

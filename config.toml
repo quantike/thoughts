@@ -29,8 +29,8 @@ style = "class"
 light_theme = "Gruvbox Light"
 dark_theme = "Gruvbox Dark"
 extra_themes = [
-  "themes/serene/highlight_themes/gruvbox-light.json",
-  "themes/serene/highlight_themes/gruvbox-dark.json"
+  "themes/custom/gruvbox-light.json",
+  "themes/custom/gruvbox-dark.json"
 ]
 
 [slugify]
