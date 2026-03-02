@@ -2,7 +2,6 @@
 title = "Your LSP Log is Growing"
 description = "Grow your log file to 100MB+ with this one simple \"pragmatic shortcut\"" 
 date = 2025-03-01
-draft = true
 
 [taxonomies]
 tags = ["bugs", "vim", "oss"]
