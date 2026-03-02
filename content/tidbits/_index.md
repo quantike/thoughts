@@ -11,7 +11,7 @@ generate_feeds = false
 lang = "en"
 
 title = "Tidbits"
-subtitle = "Useful bits and bobs"
+subtitle = "Sometimes useful bits and bobs"
 
 date_format = "%b %-d, %Y"
 
