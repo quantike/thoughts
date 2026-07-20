@@ -1,7 +1,7 @@
 +++
 title = "Your LSP Log is Growing"
 subtitle = "Grow your log file to 100MB+ with this one simple \"pragmatic shortcut\"" 
-date = 2025-03-01
+date = 2026-03-01
 
 [extra]
 subtitle = "Grow your log file to 100MB+ with this one simple \"pragmatic shortcut\"" 
